@@ -1,5 +1,5 @@
 TARGET=sh_ss_slideshow_osunc2021s.iso
-TOOLS_PATH=~/sh_ss_test/tools
+TOOLS_PATH=tools
 
 all: $(TARGET)
 
