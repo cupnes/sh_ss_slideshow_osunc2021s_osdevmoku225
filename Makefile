@@ -1,4 +1,4 @@
-TARGET=sh_ss_slideshow_osunc2021s.iso
+TARGET=sh_ss_slideshow_osunc2021s_osdevmoku225.iso
 TOOLS_PATH=tools
 
 all: $(TARGET)
